@@ -3,6 +3,8 @@
  */
 public class Permission {
 
+	// ####### Another change LOCATION 1
+
 	// $$$$$$$$$ LOCATION 2 $$$$$$$$
 
 	// Change from location #1
