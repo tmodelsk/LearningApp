@@ -4,4 +4,6 @@
 public class Permission {
 
 	// Change from location #1
+
+	// ###### Change from location #2 #######
 }
